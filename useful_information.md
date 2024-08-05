@@ -10,6 +10,10 @@ Here are a collection of links to some useful information.
 [`Optimization.jl`](https://docs.sciml.ai/Optimization/stable/) Common Julia interface for various optimization packages
 <img width="919" alt="image" src="https://github.com/user-attachments/assets/f579a068-428b-47d6-9362-abbc6bd127d7">
 
+## Sampling Packages
+* Parallel tempering with [`Pigeons.jl`](https://pigeons.run/dev/)
+* Hamiltonian Monte Carlo with [`AdvancedHMC.jl`](https://turinglang.org/AdvancedHMC.jl/stable/)
+  
 **Example packages are**: 
 * Optimisers.jl (Adam, AdaMax, Descent,...)
 * Optim.jl (LBFGS, Gradient Descent, NelderMead, Particl Swarm, Newton,...)
