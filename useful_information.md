@@ -1,4 +1,6 @@
-<img width="944" alt="image" src="https://github.com/user-attachments/assets/4cd8ebb7-19e7-47bb-8514-37f8064ab618"># Useful Links
+# Useful information
+
+Here are a collection of links to some useful information.
 
 ## Comrade Documentation
 
